@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Client-Server Aplication</string>
+    <string name="top_headlines">Top HeadLines</string>
+    <string name="everything">Everything</string>
+    <string name="all_news">All News</string>
+    <string name="business">Business</string>
+    <string name="apple">Apple</string>
+</resources>
